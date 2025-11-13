@@ -55,8 +55,6 @@ The result is a user-friendly dashboard that helps non-technical users understan
 - `README.md`  
   You’re here :)
 
-> 🔐 **Note:** If the original dataset is sensitive, use anonymized or sample data in this repo.
-
 ---
 
 ## 🚀 How to Use
